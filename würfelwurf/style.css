@@ -1,0 +1,19 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+button {
+    width: 100px;
+    height: 50px;
+}
+
+img {
+    width: 100px;
+    height: 100px;
+}
+
+#ergebnis {
+    width: 100px;
+    height: 100px;
+}
